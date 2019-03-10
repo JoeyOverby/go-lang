@@ -1,0 +1,4 @@
+src/simplegui/.gotron
+src/github.com/*
+pkg/
+.vscode/
